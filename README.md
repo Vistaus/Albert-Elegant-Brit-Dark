@@ -5,7 +5,7 @@
 Based on Flat-Dark for Albert by jakejarret: https://github.com/jakejarrett/albert-themes
 
 **INSTALLATION**
-- Open the terminal (using your menu/launcher or using *CTRL+Alt+T*)
+- Open a terminal window (using your menu/launcher or using *CTRL+Alt+T*)
 - If you haven't installed Git, install it with your distro's package management (e.g. sudo apt install git or sudo pacman -S git)
 - Copy the following command and paste it in the terminal:
 ```
