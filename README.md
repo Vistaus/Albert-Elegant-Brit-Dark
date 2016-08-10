@@ -4,6 +4,12 @@
 *A dark theme for Albert (omnilauncher for Linux) based on Elegant Brit*
 Based on Flat-Dark for Albert by jakejarret: https://github.com/jakejarrett/albert-themes
 
+**SCREENSHOTS**
+
+![Screenshot](Screenshot from 2016-08-10 10-34-16.png)
+
+![Screenshot](Screenshot_2016-08-10_10-35-17.png)
+
 **INSTALLATION**
 - Open a terminal window (using your menu/launcher or using *CTRL+Alt+T*)
 - If you haven't installed Git, install it with your distro's package management (e.g. sudo apt install git or sudo pacman -S git)
